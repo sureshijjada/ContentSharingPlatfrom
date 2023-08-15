@@ -1,0 +1,120 @@
+.container {
+  text-align: center;
+  padding: 100px;
+  background-color: blueviolet;
+}
+.card {
+  height: 55%;
+  width: 40%;
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 20px;
+}
+.heading {
+  font-style: 15px;
+  color: hotpink;
+  font-family: "Roboto";
+  margin: 20px;
+}
+.username-mobileNo {
+  height: 15px;
+  width: 50%;
+  border-radius: 8px;
+  border: 2px solid lightskyblue;
+  margin: 15px;
+}
+.register-btn {
+  height: 30px;
+  width: 22%;
+  background-color: aqua;
+  color: red;
+  border-radius: 15px;
+  border: 0px;
+  font-size: 15px;
+  font-weight: 700;
+  font-family: "Roboto";
+  margin: 10px;
+}
+.main-card {
+  background-color: mediumaquamarine;
+  padding: 10px;
+  border-radius: 10px;
+}
+.content-heading {
+  font-size: 25px;
+  color: brown;
+  font-family: "Roboto";
+  font-weight: bold;
+  margin: 10px;
+}
+.post-content {
+  height: 30px;
+  width: 50%;
+  border-radius: 10px;
+  border: 2px solid goldenrod;
+  margin: 10px;
+}
+.create-btn {
+  height: 30px;
+  width: 20%;
+  color: hotpink;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  border: 0px;
+  margin: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.main-content {
+  background-color: lightblue;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 40px;
+}
+.search-post {
+  font-size: 18px;
+  font-weight: 700;
+  color: tomato;
+  margin: 10px;
+}
+.input-search {
+  height: 25px;
+  width: 50%;
+  border-radius: 10px;
+  border: 2px solid darkgrey;
+}
+.posts {
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+  margin: 10px;
+}
+.unordered-list {
+  padding: 25px;
+
+  background-color: orchid;
+  border-radius: 10px;
+}
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.post-text {
+  font-size: 20px;
+  font-weight: 500;
+  color: blanchedalmond;
+  margin: 10px;
+  font-style: italic;
+}
+.likes-heading {
+  font-size: 15px;
+  color: blue;
+  font-style: italic;
+  margin: 10px;
+}
+.likes {
+  font-size: 15px;
+  color: hsl(0, 59%, 41%);
+  font-weight: bold;
+  margin: 10px;
+}
